@@ -7,11 +7,14 @@ Este es el proyecto final correspondiente a la materia **(HTML y CSS)**. El obje
 
 examen-final/
 │
-├── index.html ← Página principal
+├── views ← Páginas del sitio web
+└── paginas.html/
 ├── styles.css ← Estilos CSS principales
+├── index.html ← Página de inicio
 ├── README.md ← Este archivo
 └── assets/ ← Carpeta con imágenes u otros recursos
 └── img/
+
 
 ```
 
